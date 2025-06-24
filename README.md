@@ -1,6 +1,6 @@
 # 💫 👋 Hi, I’m Bharathikannan Ramakrishnan!
 
-With 11 years of experience in front-end development, I specialize in building robust and scalable web applications. My expertise spans across HTML, CSS, JavaScript, React, Redux, Node.js, and D3. I’ve worked in diverse industries, including banking (retail/internet banking, credit & debit cards), data-intensive enterprise applications, Xerox standalone solutions, public services webpages, and the semiconductor industry.
+With 12+ years of experience in front-end development, I specialize in building robust and scalable web applications. My expertise spans across HTML, CSS, JavaScript, React, Redux, Node.js, and D3. I’ve worked in diverse industries, including banking (retail/internet banking, credit & debit cards), data-intensive enterprise applications, Xerox standalone solutions, public services webpages, and the semiconductor industry.
 
 I’m passionate about creating seamless user experiences and turning complex data into intuitive visualizations.
 
