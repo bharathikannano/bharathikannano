@@ -1,6 +1,8 @@
 # 💫 👋 Hi, I’m Bharathikannan Ramakrishnan!
 
-With 12+ years of experience in front-end development, I specialize in building robust and scalable web applications. My expertise spans across HTML, CSS, JavaScript, React, Redux, Node.js, and D3. I’ve worked in diverse industries, including banking (retail/internet banking, credit & debit cards), data-intensive enterprise applications, Xerox standalone solutions, public services webpages, and the semiconductor industry.
+Senior Frontend Engineer with 13+ years of experience designing and developing enterprise-scale web applications using React, JavaScript, and TypeScript. Proven expertise in frontend architecture, performance optimization, accessibility (WCAG), REST API integration, and CI/CD pipelines. Strong history of leading engineering teams, improving delivery velocity, and shipping high-quality production systems. Experienced in AI-assisted development using GitHub Copilot, windsurf, Claude code and Generative AI workflows to improve code quality, developer productivity, and UI innovation.
+
+Core Focus Areas: ReactJS, TypeScript, Frontend Architecture, System Design, Performance Optimization, Accessibility, Agile Delivery, MERN Stack, Generative AI
 
 I’m passionate about creating seamless user experiences and turning complex data into intuitive visualizations.
 
